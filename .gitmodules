@@ -1,0 +1,3 @@
+[submodule "ftplugin/javascript"]
+	path = ftplugin/javascript
+	url = https://github.com/hallettj/jslint.vim.git
