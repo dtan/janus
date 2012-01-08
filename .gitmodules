@@ -1,0 +1,6 @@
+[submodule "vim-stylus"]
+	path = vim-stylus
+	url = https://github.com/wavded/vim-stylus.git
+[submodule "vim-jade"]
+	path = vim-jade
+	url = https://github.com/digitaltoad/vim-jade.git
