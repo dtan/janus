@@ -1,0 +1,6 @@
+[submodule "jslint.vim"]
+	path = jslint.vim
+	url = https://github.com/hallettj/jslint.vim.git
+[submodule "vim-surround"]
+	path = vim-surround
+	url = https://github.com/tpope/vim-surround.git
