@@ -4,3 +4,6 @@
 [submodule "vim-jade"]
 	path = vim-jade
 	url = https://github.com/digitaltoad/vim-jade.git
+[submodule "vim-surround"]
+	path = vim-surround
+	url = https://github.com/tpope/vim-surround.git
